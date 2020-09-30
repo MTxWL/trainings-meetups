@@ -19,9 +19,16 @@ Machine Learning
  - [Machine Learning in Python](https://labmasters.pl/kursy-otwarte/python/p-3/); LabMasters@Warsaw University Economy Department, total 30h ;  completed 02/2020
 Sages -- (10/2019)
 - [Machine Learning in Python - from data anaylysis to building models](https://www.sages.pl/szkolenia/machine-learning-and-deep-learning); Sages;  completed 10/2019
+- Machine Learning; Stanford University; in progress 
 
 Web development
 - [Web developer bootcamp](https://www.udemy.com/certificate/UC-4c0365e6-1b08-409f-b48a-cadfc7ee4ec3/) by colt Steel.; total 47h ; completed 30/09/2020
+
+Django
+- Django2 by A.Mele
+
+Flask
+- [Flask Web Development](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by Miguel Grinberg.; completed 01/06/2020
 
 ## Meetups:
 
