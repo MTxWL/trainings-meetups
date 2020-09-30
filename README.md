@@ -1,4 +1,4 @@
-# Tainings & meetups
+# Tainings & meetups & coop in open projects
 
 ## Online trainings:
 
@@ -17,3 +17,15 @@ Machine Learning
 
 Warsaw Meetups
 - xxxxx
+
+## Open projects (pro bono)
+
+Open-Health-Data-Project 
+
+Developed: in progress
+
+Cooperation with 61 developers
+
+Scope: Backend + database
+
+[More about](https://github.com/Open-Health-Data-Project)
