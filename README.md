@@ -32,7 +32,7 @@ Flask
 ## Meetups:
 
 Warsaw Meetups
-- xxxxx
+- tbd
 
 ## Open projects (pro bono)
 
