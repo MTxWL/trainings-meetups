@@ -16,8 +16,7 @@ Data analysis
 - [Regression analysis](https://www.udemy.com/certificate/UC-Y7XE90D9/) by Q. S.; total 2h ; completed 15/01/2019
 
 Machine Learning
- - [Machine Learning in Python](https://labmasters.pl/kursy-otwarte/python/p-3/); LabMasters@Warsaw University Economy Department, total 30h ;  completed 02/2020
-Sages -- (10/2019)
+- [Machine Learning in Python](https://labmasters.pl/kursy-otwarte/python/p-3/); LabMasters@Warsaw University Economy Department, total 30h ;  completed 02/2020
 - [Machine Learning in Python - from data anaylysis to building models](https://www.sages.pl/szkolenia/machine-learning-and-deep-learning); Sages;  completed 10/2019
 - Machine Learning; Stanford University; in progress 
 
