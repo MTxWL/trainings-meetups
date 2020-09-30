@@ -2,6 +2,9 @@
 
 ## Tranings:
 
+Django
+- Django2 by A.Mele
+
 Databases
 - [Bootcamp SQL PostgreSQL](https://www.udemy.com/certificate/UC-efdf72bc-dab5-4573-88eb-4e22f1a67277/) by Will Bunker (Match.com); total 16h; completed 11/08/2020
 - [SQL PostgreSQL](https://www.udemy.com/certificate/UC-44EYTK7F/) by J. Avis ; total 7.5h ; completed 1/08/2019
@@ -14,6 +17,7 @@ Office skills:
 
 Data analysis
 - [Regression analysis](https://www.udemy.com/certificate/UC-Y7XE90D9/) by Q. S.; total 2h ; completed 15/01/2019
+- [Data science in Python 3.7+](https://labmasters.pl/kursy-otwarte/python/p-3/); LabMasters@Warsaw University Economy Department, total 30h ;  completed 09/2019
 
 Machine Learning
 - [Machine Learning in Python](https://labmasters.pl/kursy-otwarte/python/p-3/); LabMasters@Warsaw University Economy Department, total 30h ;  completed 02/2020
@@ -28,6 +32,9 @@ Django
 
 Flask
 - [Flask Web Development](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by Miguel Grinberg.; completed 01/06/2020
+
+Docker
+- [Docker introduction](https://szkoladockera.pl/oferta/) by Capgemini/ Docker School; completed 01/07/2020
 
 ## Meetups:
 
