@@ -22,7 +22,7 @@ Sages -- (10/2019)
 - Machine Learning; Stanford University; in progress 
 
 Web development
-- [Web developer bootcamp](https://www.udemy.com/certificate/UC-4c0365e6-1b08-409f-b48a-cadfc7ee4ec3/) by colt Steel.; total 47h ; completed 30/09/2020
+- [Web developer bootcamp](https://www.udemy.com/certificate/UC-4c0365e6-1b08-409f-b48a-cadfc7ee4ec3/) by Colt Steel.; total 47h ; completed 30/09/2020
 
 Django
 - Django2 by A.Mele
