@@ -20,5 +20,5 @@ Warsaw Meetups
 
 ## Open projects (pro bono)
 
-- [Open-Health-Data-Project](https://github.com/Open-Health-Data-Project) ; Developed: in progress; Cooperation with 61 developers; Scope: Backend + database
+- [Open-Health-Data-Project](https://github.com/Open-Health-Data-Project) ; Development: in progress; Cooperation with 61 developers; Scope: Backend + database
 
