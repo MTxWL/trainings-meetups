@@ -20,6 +20,7 @@ Machine Learning
 - [Machine Learning in Python](https://labmasters.pl/kursy-otwarte/python/p-3/); LabMasters@Warsaw University Economy Department, total 30h ;  completed 02/2020
 - [Machine Learning in Python - from data anaylysis to building models](https://www.sages.pl/szkolenia/machine-learning-and-deep-learning); Sages;  completed 10/2019
 - Machine Learning; Stanford University; in progress 
+- AI + monitoring wizyjny, Semantive; completed 06/2020
 
 Web development
 - [Web developer bootcamp](https://www.udemy.com/certificate/UC-4c0365e6-1b08-409f-b48a-cadfc7ee4ec3/) by Colt Steel.; total 47h ; completed 30/09/2020
@@ -36,7 +37,16 @@ Docker
 ## Meetups:
 
 Warsaw Meetups
-- tbd
+- Deep Learning Labs
+- PyLight
+
+## Other
+- Accenture Training Labs:
+* Microservices in Event Driven Architecture; completed 9/07/2020
+* AWS Lambda w Teorii i Praktyce; completed 18/06/2020
+* Zarządzanie Inteligentną Organizacją; completed 27/05/2020
+* Bazy Danych i SQL; completed 27/11/2019
+
 
 ## Open projects (pro bono)
 
