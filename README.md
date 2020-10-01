@@ -41,7 +41,7 @@ Warsaw Meetups
 - PyLight
 
 ## Other
-- Accenture Training Labs:
+Accenture Training Labs:
 + Microservices in Event Driven Architecture; completed 9/07/2020
 + AWS Lambda w Teorii i Praktyce; completed 18/06/2020
 + Zarządzanie Inteligentną Organizacją; completed 27/05/2020
