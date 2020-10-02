@@ -30,6 +30,10 @@ Django
 
 Flask
 - [Flask Web Development](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by Miguel Grinberg.; completed 01/06/2020
+- Python and Flask Bootcamp: Create Websites using Flask
+- REST APIs with Flask and Python
+- The Flask Mega-Tutorial (Python Web Development)
+- Advanced REST APIs with Flask and Python
 
 Docker
 - [Docker introduction](https://szkoladockera.pl/oferta/) by Capgemini/ Docker School; completed 01/07/2020
