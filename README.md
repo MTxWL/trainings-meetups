@@ -31,7 +31,7 @@ Django
 Flask
 - [Flask Web Development](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by Miguel Grinberg.; completed 01/06/2020
 - [Python and Flask Bootcamp: Create Websites using Flask](https://www.udemy.com/certificate/UC-XBVQNQDB/) by J.Portilla; total 20h; completed 5/11/2019
-- REST APIs with Flask and Python
+- [REST APIs with Flask and Python](https://www.udemy.com/certificate/UC-f16a9349-3cae-43bc-af90-583223aacd48/) by J. Salvatierra; total 17h; completed 5/12/2020
 - The Flask Mega-Tutorial (Python Web Development)
 - Advanced REST APIs with Flask and Python
 
