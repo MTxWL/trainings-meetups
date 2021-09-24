@@ -11,7 +11,8 @@ Databases
 Office skills:
 - [Excel VBA + Makros](https://www.udemy.com/certificate/UC-PSCTD4CS/) by J. Avis ; total 14.5h ; completed 29/01/2019
 - [Excel Advanced](https://www.udemy.com/certificate/UC-4ZEOREMC/) by A. Jvis ; total 15h ; completed 23/01/2019
-- [Tableau advanced Traning](https://www.udemy.com/certificate/UC-X553YQ58/) by K. Emerenko ; total 9h ; completed 25/02/2019 - Tableau Desktop Specialist Certified
+- [Tableau advanced Traning](https://www.udemy.com/certificate/UC-X553YQ58/) by K. Emerenko ; total 9h ; completed 25/02/2019
+- Tableau Desktop Specialist Certified
 
 Data analysis
 - [Regression analysis](https://www.udemy.com/certificate/UC-Y7XE90D9/) by Q. S.; total 2h ; completed 15/01/2019
